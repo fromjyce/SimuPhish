@@ -1,0 +1,16 @@
+<table>
+    <tr>
+        <th>User</th>
+        <th>Email Opened</th>
+        <th>Link Clicked</th>
+        <th>Credentials Submitted</th>
+    </tr>
+    {% for user in users %}
+    <tr>
+        <td>{{ user.user_email }}</td>
+        <td>{{ user.email_opened }}</td>
+        <td>{{ user.link_clicked }}</td>
+        <td>{{ user.credentials_submitted }}</td>
+    </tr>
+    {% endfor %}
+</table>
