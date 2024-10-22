@@ -12,8 +12,8 @@ SimuPhish is a phishing simulation tool designed to raise security awareness by 
 ## Technologies Used
 
 - **Backend**: Flask, SQLAlchemy
-- **Frontend**: HTML, CSS (Bootstrap or Tailwind CSS)
-- **Database**: SQLite (or any other relational database)
+- **Frontend**: HTML, CSS (Tailwind CSS)
+- **Database**: SQLite
 - **Email**: Flask-Mail for sending emails
 - **Version Control**: Git
 
