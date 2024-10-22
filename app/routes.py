@@ -16,7 +16,7 @@ def track_open():
     user_interaction = UserInteraction.query.filter_by(user_email=user).first()
     user_interaction.email_opened = True
     db.session.commit()
-    return send_file('static/tracking_pixel.png', mimetype='image/png')
+    return send_file('static/tracking.png', mimetype='image/png')
 
 @app.route('/verify')
 def verify():
