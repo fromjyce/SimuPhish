@@ -61,7 +61,7 @@ The programs have been tested on the Visual Studio Code IDE in Windows 11. You a
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the portfolio website, please feel free to contact me at `jaya2004kra@gmail.com`. I welcome any input that can help me improve the site.
+If you come across any issues, have suggestions for improvement, or want to discuss further enhancements, feel free to contact me at [jaya2004kra@gmail.com](mailto:jaya2004kra@gmail.com). Your feedback is greatly appreciated.
 
 ## License
 
